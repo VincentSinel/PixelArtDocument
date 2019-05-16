@@ -10,6 +10,7 @@
 ║	- Ajout des gammes de couleurs.
 ║	- Ajout de la suppression auto des couleurs non utilisées.
 ║	- Ajout des fractions.
+║	- Ajout de l'onglet à propos.
 ║
 ╠═══════════════════════════════════╗
 ║Derniere Mise a jour : V. 1.0.0.0  ║
