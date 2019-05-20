@@ -1,9 +1,18 @@
 ╔═══════════════════════════════════════════════╗
-║ Generateur de plan de classe    V1.0.1.0      ║
+║ Generateur de plan de classe    V1.0.2.0      ║
 ║ Sinel V.  2018                                ║
 ╠═══════════════════════════════════════════════╝
 ╠═══════════════════════════════════╗
-║Derniere Mise a jour : V. 1.0.1.0  ║
+║Derniere Mise a jour : V. 1.0.2.0  ║
+╠═══════════════════════════════════╝
+║
+║	- Ajout de la récuperation des couleurs de l'image.
+║	- Correction du bug d'enregistrement lorsque la scrollviewer n'est pas à sa position d'origine.
+║	- Correction du bug de mauvaise identification des dénominateur lors des changement d'images.
+║	- Ajout de la couleur "Ciment".
+║
+╠═══════════════════════════════════╗
+║Ancienne Mise a jour : V. 1.0.1.0  ║
 ╠═══════════════════════════════════╝
 ║
 ║	- Ajout de la mise a jour auto.
@@ -13,7 +22,7 @@
 ║	- Ajout de l'onglet à propos.
 ║
 ╠═══════════════════════════════════╗
-║Derniere Mise a jour : V. 1.0.0.0  ║
+║Ancienne Mise a jour : V. 1.0.0.0  ║
 ╠═══════════════════════════════════╝
 ║
 ║	- Creation du logiciel.
