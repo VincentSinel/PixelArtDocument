@@ -3,7 +3,13 @@
 ║ Sinel V.  2018                                ║
 ╠═══════════════════════════════════════════════╝
 ╠═══════════════════════════════════╗
-║Derniere Mise a jour : V. 1.0.2.0  ║
+║Derniere Mise a jour : V. 1.0.3.0  ║
+╠═══════════════════════════════════╝
+║
+║	- Correction d'un bug lors du chargement d'une image plus grande que celle précédement enregistré.
+║
+╠═══════════════════════════════════╗
+║Ancienne Mise a jour : V. 1.0.2.0  ║
 ╠═══════════════════════════════════╝
 ║
 ║	- Ajout de la récuperation des couleurs de l'image.
