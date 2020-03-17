@@ -1,12 +1,12 @@
 # PixelArtDocument<a href="https://github.com/VincentSinel"><img align="right" src="https://raw.githubusercontent.com/VincentSinel/Image/master/Icone.png" width="233" style="margin:0px 30px" alt="VS Programme"></a>
 
-Logiciel permettant la création de damier indexé à partir d'une images et de ses couleurs pour réaliser des activités mathématiques.
+Logiciel permettant la création de damier indexé à partir d'une image et de ses couleurs pour réaliser des activités mathématiques.
 
-Un exemple de chaque type de creation est disponible en image.
+Un exemple de chaque type de création est disponible en image.
 
 ## Installation
 
-Aucune installation nécessaire le logiciel peut-être lancé depuis n'importe quelle clé USB
+Aucune installation nécessaire, le logiciel peut-être lancé depuis n'importe quelle clé USB.
 
 ## Librairie
 
